@@ -1,0 +1,2 @@
+# AMProject
+Applied Mathematics Project
